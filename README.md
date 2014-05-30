@@ -1,4 +1,4 @@
 www.bahaquote.com
 ================
 
-Online Invoicng Company provides 24 hours online service.
+Bahaquote online billing mobile application allows you to quickly send invoices and check on your business no matter where you are.
